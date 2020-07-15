@@ -1,0 +1,4 @@
+.idea/
+.openapi-generator/
+*.iml
+target/
