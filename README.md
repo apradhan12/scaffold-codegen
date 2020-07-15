@@ -4,6 +4,8 @@ Project generated on : 2020-07-15T17:47:19.593-04:00[America/New_York]
 
 This document assumes you have maven available.
 
+Everything in this repository was automatically generated from [src/main/resources/openapi.yaml](./src/main/resources/openapi.yaml) using openapi-generator.
+
 To regenerate the code, run:
 ```bash
 java -jar openapi-generator-cli.jar generate \
